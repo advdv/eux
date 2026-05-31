@@ -5,6 +5,7 @@ node = "22"
 "npm:skills" = "latest"
 "github:brandonyoungdev/tldx" = "latest"
 "github:dnsimple/cli" = "latest"
+"github:scaleway/scaleway-cli" = { version = "latest", bin = "scw" }
 shellcheck = "latest"
 shfmt = "latest"
 golangci-lint = "latest"
