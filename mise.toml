@@ -1,0 +1,12 @@
+[tools]
+go = "latest"
+node = "22"
+"npm:@ampcode/cli" = { version = "latest", npm_args = "--ignore-scripts=false" }
+"npm:skills" = "latest"
+"github:brandonyoungdev/tldx" = "latest"
+"github:dnsimple/cli" = "latest"
+shellcheck = "latest"
+shfmt = "latest"
+golangci-lint = "latest"
+taplo = "latest"
+"npm:prettier" = "latest"
